@@ -1,14 +1,31 @@
 body{
-    font-family: Arial, sans-serif;
-    background:#f5f8ff;
+    background:#f2f8ff;
+    font-family:Arial;
     text-align:center;
-    padding:40px;
+    padding-top:60px;
 }
 
 h1{
     color:#1565C0;
+    font-size:40px;
 }
 
 p{
-    color:#444;
+    color:#555;
+    font-size:20px;
+}
+
+input{
+    width:300px;
+    padding:12px;
+    border-radius:8px;
+    border:1px solid #ccc;
+}
+
+button{
+    padding:12px 25px;
+    background:#1565C0;
+    color:white;
+    border:none;
+    border-radius:8px;
 }
